@@ -1,5 +1,6 @@
 Archive Notice 
 This repository has been marked as Archived. The contents include hazardous electricity consumption pattern recognition models and datasets for industrial scenarios, intended for research or educational purposes.
+Permanent Archiving: Repository is archived via Zenodo (DOI: 10.5281/zenodo.17588587) for long-term accessibility.
 Project Overview 
 This repository contains 7 types of hazardous electricity consumption pattern recognition models for industrial applications, covering abnormal scenarios such as production halts, resumptions, overloading, and covert operations. It is suitable for energy monitoring, compliance detection, and related research.
 Directory Structure 
