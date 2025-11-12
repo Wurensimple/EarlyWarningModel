@@ -14,13 +14,14 @@ Production suspension and resumption: Models for identifying cycles
 
 Each folder contains:
 Dataset files
-PyTorch-based model implementation code
+PyTorch-based model implementation code(The codes used for training the model and conducting the early warning work respectively).
 Configuration files for experiments
-Usage Instructions 
+
+Usage Instructions :
 1. Archive Notice: The codebase is stable with no planned updates, but it remains freely available for study or reuse.
 2. Quick Start: Navigate to the relevant folder and review the code comments for model logic and data formats.
 3. Dependencies: Requires Python 3.8+.
-Last Updated: 3 months ago (based on Git commit history)
+Last Updated: based on Git commit history.
 Disclaimer: This repository is for academic/educational use only. Users must comply with local laws and regulations.
 
 Key Features:
